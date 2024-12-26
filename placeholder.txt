@@ -1,0 +1,38 @@
+ <!-- <div class="box">
+      <div class="box-content">
+      <img class="food-image" src="" alt="">
+      <div class="add-to-cart">
+    <div style="display: flex;" class="not-clicked">
+      <img src="assets/images/icon-add-to-cart.svg" alt="">
+      <p>Add to Cart</p>
+    </div> -->
+
+    <!-- <div style="display: ;" class="clicked">
+      <img style="fill: aqua;"  src="assets/images/icon-decrement-quantity.svg" alt="">
+      <p>1</p>
+      <img  src="assets/images/icon-increment-quantity.svg" alt="">   
+    </div>
+      </div> 
+       -->
+<!--     
+      <div class="food-details">
+        <p class="food-category"></p>
+        <p class="food-name"></p>
+        <p class="price" >$</p>
+      </div>
+    </div>
+  </div> -->
+
+  <!-- <div class="your-order">
+          <div class="details">
+            <p class="food-name">
+              Classic Tiramisu
+            </p>
+            <span class="quantity">
+              <p class="quantity-number">1x</p>
+              <p class="price-per-one">@ $5.50</p>
+              <p class="price-per-quantity" >$5.50</p>
+            </span>
+          </div>
+          <img class="remove-item" src="assets/images/icon-remove-item.svg" alt="">
+        </div> -->
